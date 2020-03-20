@@ -1,5 +1,8 @@
 # algorithm
 
+정렬 알고리즘 비교하기
+https://www.toptal.com/developers/sorting-algorithms
+
 왜 정렬 알고리즘을 공부해야 할까? </br>
 https://soldonii.tistory.com/85
 
