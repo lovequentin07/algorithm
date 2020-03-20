@@ -27,7 +27,7 @@ https://qkqhxla1.tistory.com/990
 알고리즘 공부, 어떻게 해야하나요?</br>
 https://baactree.tistory.com/52
 
-01. 왜 자료 구조, 알고리즘을 배워야 할까?</br>
+왜 자료 구조, 알고리즘을 배워야 할까?</br>
 https://haeulnam.github.io/algorithm/2019/01/26/01-Implementation-Schedule/
 
 자료구조와 알고리즘을 공부해야 하는 이유</br>
